@@ -1,0 +1,24 @@
+mode: set
+lets-go/learn/basic/some_algo.go:4.24,6.2 1 1
+lets-go/learn/basic/some_algo.go:9.47,13.33 4 1
+lets-go/learn/basic/some_algo.go:24.2,24.15 1 1
+lets-go/learn/basic/some_algo.go:13.33,14.53 1 1
+lets-go/learn/basic/some_algo.go:19.3,19.25 1 1
+lets-go/learn/basic/some_algo.go:22.3,22.20 1 1
+lets-go/learn/basic/some_algo.go:14.53,17.4 1 1
+lets-go/learn/basic/some_algo.go:19.25,21.4 1 1
+lets-go/learn/basic/error_handle.go:9.17,12.26 3 0
+lets-go/learn/basic/error_handle.go:15.2,15.17 1 0
+lets-go/learn/basic/error_handle.go:12.26,14.3 1 0
+lets-go/learn/basic/error_handle.go:18.13,20.2 1 0
+lets-go/learn/basic/error_handle.go:22.20,26.16 3 0
+lets-go/learn/basic/error_handle.go:33.2,34.18 2 0
+lets-go/learn/basic/error_handle.go:26.16,27.48 1 0
+lets-go/learn/basic/error_handle.go:27.48,28.40 1 0
+lets-go/learn/basic/error_handle.go:29.9,31.4 1 0
+lets-go/learn/basic/functional.go:4.28,6.25 2 0
+lets-go/learn/basic/functional.go:6.25,9.3 2 0
+lets-go/learn/basic/functional.go:15.30,16.35 1 0
+lets-go/learn/basic/functional.go:16.35,19.3 1 0
+lets-go/learn/basic/functional.go:22.28,24.20 2 0
+lets-go/learn/basic/functional.go:24.20,27.3 2 0

@@ -1,0 +1,13 @@
+# common
+.vscode/
+*.iml
+.idea/
+
+# fe
+node_modules/
+
+# go
+
+
+
+
