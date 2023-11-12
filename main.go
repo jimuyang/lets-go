@@ -5,9 +5,10 @@ import (
 )
 
 func main() {
-	rankResp := reqRank()
-	poiIds := ParseRank(rankResp)
-	ParseItem(reqItem(poiIds))
+
+	// rankResp := reqRank()
+	// poiIds := ParseRank(rankResp)
+	// ParseItem(reqItem(poiIds))
 }
 
 func ToJSON(v interface{}) string {
